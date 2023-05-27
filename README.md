@@ -1,2 +1,2 @@
-# Lights_On_Game
+# Lights-On-Game
 Lights on Game
